@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/shopping/static/css/main.d7f4a300.css",
+    "main.js": "/shopping/static/js/main.ad3e8482.js",
+    "static/js/787.6962f9d7.chunk.js": "/shopping/static/js/787.6962f9d7.chunk.js",
+    "static/media/Roboto-Bold.ttf": "/shopping/static/media/Roboto-Bold.29d0602f3c74d2be2107.ttf",
+    "static/media/Roboto-Thin.ttf": "/shopping/static/media/Roboto-Thin.bc405e852883934268b5.ttf",
+    "static/media/Roboto-Medium.ttf": "/shopping/static/media/Roboto-Medium.987ab5111b87d67e6f6e.ttf",
+    "static/media/Roboto-Light.ttf": "/shopping/static/media/Roboto-Light.7cedccda2feb66b96d7a.ttf",
+    "static/media/Roboto-Regular.ttf": "/shopping/static/media/Roboto-Regular.04b605aa85f24816e3e6.ttf",
+    "static/media/Roboto-Medium.woff": "/shopping/static/media/Roboto-Medium.e2d3fd034896d1bc0fc5.woff",
+    "static/media/Roboto-Bold.woff": "/shopping/static/media/Roboto-Bold.9f4933e9b9559f8615f3.woff",
+    "static/media/Roboto-Light.woff": "/shopping/static/media/Roboto-Light.dd9e8e47c13bd958253a.woff",
+    "static/media/Roboto-Regular.woff": "/shopping/static/media/Roboto-Regular.5e1aec00d3a032511dde.woff",
+    "static/media/Roboto-Thin.woff": "/shopping/static/media/Roboto-Thin.7bf9050517b14eb2acfd.woff",
+    "static/media/Roboto-Medium.woff2": "/shopping/static/media/Roboto-Medium.c90d94fb3f94e426c31e.woff2",
+    "static/media/Roboto-Bold.woff2": "/shopping/static/media/Roboto-Bold.8b6957a1ce4f6e9236f9.woff2",
+    "static/media/Roboto-Light.woff2": "/shopping/static/media/Roboto-Light.7d1febe76014e661e3f2.woff2",
+    "static/media/Roboto-Regular.woff2": "/shopping/static/media/Roboto-Regular.e9a9d280f48fac104245.woff2",
+    "static/media/Roboto-Thin.woff2": "/shopping/static/media/Roboto-Thin.06ca73da1f5188a4c679.woff2",
+    "static/media/Roboto-Thin.eot": "/shopping/static/media/Roboto-Thin.ddc05a8dfb503bf29180.eot",
+    "static/media/Roboto-Medium.eot": "/shopping/static/media/Roboto-Medium.ad11054c06a5d3f128da.eot",
+    "static/media/Roboto-Regular.eot": "/shopping/static/media/Roboto-Regular.86c03c03a6e4002e883a.eot",
+    "static/media/Roboto-Bold.eot": "/shopping/static/media/Roboto-Bold.5f2071a3ea1059dce0ad.eot",
+    "static/media/Roboto-Light.eot": "/shopping/static/media/Roboto-Light.82fabc8ad3eb207e456a.eot",
+    "index.html": "/shopping/index.html",
+    "static/media/arrow_left.svg": "/shopping/static/media/arrow_left.2b063d13b9ef574cd7d1.svg",
+    "static/media/arrow_right.svg": "/shopping/static/media/arrow_right.0897f985cc5c7537b31d.svg",
+    "main.d7f4a300.css.map": "/shopping/static/css/main.d7f4a300.css.map",
+    "main.ad3e8482.js.map": "/shopping/static/js/main.ad3e8482.js.map",
+    "787.6962f9d7.chunk.js.map": "/shopping/static/js/787.6962f9d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7f4a300.css",
+    "static/js/main.ad3e8482.js"
+  ]
+}
